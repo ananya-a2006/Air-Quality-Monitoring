@@ -29,17 +29,6 @@ Displays data on a 16x2 I2C LCD and sends real-time updates to Blynk.
 
 ## 🔌 Connections
 
-### DHT11 → ESP32
-- DATA → GPIO 4  
-
-### Gas Sensor → ESP32
-- A0 → GPIO 34  
-
-### LCD (I2C) → ESP32
-- SDA → GPIO 21  
-- SCL → GPIO 22  
-
----
 ![Output](images/circuit.jpg)
 
 ## 🚨 Alert Condition
